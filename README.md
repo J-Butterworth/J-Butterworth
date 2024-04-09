@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jason Butterworth.
 
-- 🏫 I’m a sophomore studying CS at the Univeristy of Arizona.
+- 🌵 I’m a sophomore studying CS at the Univeristy of Arizona.
 - 💻 I’m currently learning Assembly/Computer Organization, as well as Data Structure Analysis.
 - ☁️ I have an interest in cloud computing, leading me to study for my AWS CCP.
 - 🧠 I have also completed professional certificates in Google's cybersecurity field as well as IBM's Applied AI.
