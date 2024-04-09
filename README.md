@@ -6,4 +6,5 @@
 - 🧠 I have also completed professional certificates in Google's cybersecurity field as well as IBM's Applied AI.
 - 📫 How to reach me: jbutterworth@arizona.edu, or my LinkedIn profile included on the left.
 - 🏍️ Fun fact: In my free time I enjoy playing tennis, golf, or riding my motorcycle.
---> If you're interested in more details or 
+
+--> If you're interested in more details about me or my projects, don't hesitate to reach out!
